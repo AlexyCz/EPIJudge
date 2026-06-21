@@ -2,12 +2,12 @@
 
 ## Given scenerio *i*, write and test code for the problems in 0 to *i*-1, and pseudo-code for the problems in column *i*
 
-### Currently, Scenerio Three
+### Currently, Scenerio Three, Focus C4-C14
 
 | Chapter | Implement | Pseudo |
 |---|---|---|
 | C4 | 4.1, 4.7, ~~4.8~~ | 4.3, 4.11 |
-| C5 | 5.1, 5.6, 5.12, 5.18, 5.2, 5.17 | 5.5, 5.9 |
+| C5 | 5.1, ~~5.6~~, 5.12, 5.18, 5.2, 5.17 | 5.5, 5.9 |
 | C6 | 6.1, 6.2, 6.4, 6.5, 6.6 | 6.7 |
 | C7 | 7.1, 7.2, 7.3, 7.4, 7.7 | 7.10 |
 | C8 | 8.1, 8.6, 8.2, 8.7 | 8.3, 8.8 |
